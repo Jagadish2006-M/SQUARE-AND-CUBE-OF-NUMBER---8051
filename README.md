@@ -28,6 +28,7 @@ END
 ## OUTPUT
 <img width="1915" height="1198" alt="Square of 8" src="https://github.com/user-attachments/assets/a3ff133f-d943-4f51-a440-9f261acc693f" />
 
+![SQUARE OF 8 BIT SIGNED](https://github.com/user-attachments/assets/32677da6-b1ea-4df5-9e51-d6ab2d7172d0)
 
 ## RESULT
 Thus, the square of the given data is calculated using 8051 Keil.
